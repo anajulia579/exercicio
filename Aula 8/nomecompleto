@@ -1,0 +1,8 @@
+/*Declare duas variaveis chamadas"nome" e "sobrenome",
+atribua o seu nome e sobrenome a elas.concatene-as em uma terceira
+variavel chamada "nomecompleto" e imprima ao usuario*/
+
+let nome="AnaJulia";
+let sobrenome="Rodrigues";
+let nomecompleto= nome+" "+ sobrenome;
+console.log("Seu nome completo é:"+nomecompleto);

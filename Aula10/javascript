@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>exercicio1=switch</title>
+</head>
+<body>
+
+  <h2>Javascriptswitch</h2>
+  <p id="demo"></p>
+
+  <script>
+    let texto;
+    switch(new Date().getDay()){
+
+    case 6:
+    texto ="hoje e sabado";
+    break;
+
+    case 0:
+    texto = "hoje e domingo";
+    break;
+
+    default:
+     texto ="na espera do final de semana";
+    }
+    document.getElementById("demo").innerHTML=texto;
+
+    </script>
+   </body>
+   </html>

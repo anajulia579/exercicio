@@ -1,0 +1,20 @@
+body{
+color: grey;
+/*background-image:linear-gradient ( violet, white,red)*/
+background-image:url("https://th.bing.com/th/id/R.46580c3eca0259a367416dbc7f40bf48?rik=W1lrYSlYsS53Dw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-1cFylbwcTtE%2fUqMkUV_5-yI%2fAAAAAAAAF8w%2fOE8QEo8B1MY%2fs1600%2fPAISAGENS.jpg&ehk=efIEQIXbOrba5n9OhN7LFK4KWtJz9FCywmsfQJkjEfI%3d&risl=&pid=ImgRaw&r=0");
+
+}
+
+p,ul{
+    color: blueviolet;
+    background-color: red;
+    font-size: 20px; /* comentarios no css*/
+    text-align:center;
+}
+.Titulo{/*class*/
+
+}
+
+#seletor{/*id*/
+
+}
